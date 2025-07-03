@@ -49,27 +49,27 @@ This model aids in:
 
 ## 🔄 Workflow Overview
 ### Preprocessing:
--Drop invalid records (e.g., negative values)
--Encode and normalize features
+- Drop invalid records (e.g., negative values)
+- Encode and normalize features
 
 ### Feature Engineering:
--Polynomial and interaction features
--SHAP-based feature selection
+- Polynomial and interaction features
+- SHAP-based feature selection
 
 ### Modeling:
--Train and validate ML models
--Perform hyperparameter tuning
--Stack final ensemble
+- Train and validate ML models
+- Perform hyperparameter tuning
+- Stack final ensemble
 
 ### Prediction:
--Predict solar panel efficiency for new/unseen data
+- Predict solar panel efficiency for new/unseen data
 
 ## 📌 Future Enhancements
--Time-series modeling using LSTM/GRU for temporal trends
--Integration with live sensor data via APIs
--Model deployment as a web service
+- Time-series modeling using LSTM/GRU for temporal trends
+- Integration with live sensor data via APIs
+- Model deployment as a web service
 
 ## 👨‍💻 Author
- -Ayush
- -B.Tech CSE, 3rd Year
--Interested in ML, analytics, and renewable energy systems
+ - Ayush
+ - B.Tech CSE, 3rd Year
+- Interested in ML, analytics, and renewable energy systems
